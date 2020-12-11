@@ -22,11 +22,13 @@ After getting the relevant player data from the past 10 seasons, I added to the 
 ## EDA
 The following is a table showing the percent increase in various statistics if a player is on an all-NBA team in the next season compared to a player not on an all-NBA team in the next season.
 
+<img src="https://github.com/abedurrant/All-NBA-Predictions-DataScienceProject/blob/main/EDA%20Table.PNG" width="450" height="400">
+
 The following are charts looking at a few of the most used summary statistics of a player and how that compares from those that made all-NBA teams vs. those that didn't. Once again to clarify, this is if they made the all-NBA team in the following season as that is what we are focused on predicting.
 
-<img src="https://github.com/abedurrant/All-NBA-Predictions-DataScienceProject/blob/main/All-NBA_Plot1.png" width="450" height="400">
-
 <img src="https://github.com/abedurrant/All-NBA-Predictions-DataScienceProject/blob/main/All-NBA_Plot2.png" width="450" height="400">
+
+<img src="https://github.com/abedurrant/All-NBA-Predictions-DataScienceProject/blob/main/All-NBA_Plot1.png" width="450" height="400">
 
 <img src="https://github.com/abedurrant/All-NBA-Predictions-DataScienceProject/blob/main/All-NBA_Plot3.png" width="450" height="400">
 
