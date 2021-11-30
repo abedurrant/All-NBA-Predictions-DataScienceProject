@@ -1,4 +1,7 @@
 # All-NBA Team Predictions
+## 2021 Update
+The model correctly predicted 8 of the 15 all-NBA players in 2021 before the season started. Had injuries been accounted for it would have predicted 9 or 60%. I am currently working to update the project to have the model update as the season goes on with projections of who will make all-NBA.
+
 ## Introduction
 
 All-NBA teams are supposed to be awards given to the best players in basketball for any given season. These awards are subjective and are based upon people voting their opinions, but the people voting are basing their opinion off both watching games and statistics. As a basketball fan I love paying attention to the NBA awards/All-NBA teams and I also like to speculate before the season about which players are going to do well. It is common among fans to make predictions before the season, so I wanted to see if I could create a model to better predict NBA awards before the season. The specific question I wanted to answer for this project was whether it is possible to predict who will make an all-NBA team for a given season before that season even starts? In other words, could I use data from the previous season a player played in to project whether they would be on an all-NBA team in the next season?
