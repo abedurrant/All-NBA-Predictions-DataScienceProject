@@ -1,5 +1,5 @@
 # All-NBA Team Predictions
-## 2021 Update
+## *2021 Update
 The model correctly predicted 8 of the 15 all-NBA players in 2021 before the season started. Had injuries been accounted for it would have predicted 9 or 60%. I am currently working to update the project to have the model update as the season goes on with projections of who will make all-NBA.
 
 ## Introduction
